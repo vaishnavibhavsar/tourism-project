@@ -7,7 +7,7 @@
 3. Swati Borse
 4. Gayatri Chaudhari
 ## Problem Statement:
-The project was about exploring different spots in different cities , avail different tourist packages and also if that person is currently at some particular spot find nearest spot from it and many more.
+The project is about exploring different spots in different cities , avail different tourist packages and also if that person is currently at some particular spot find nearest spot from it and many more.
 ## Data Structures Used:
 The data structures used were graph for tourist spots and AVL trees for searching spots and getting details.
 ## Functionalities:
