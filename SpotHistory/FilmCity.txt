@@ -1,0 +1,15 @@
+SPOT NAME:FILM CITY, MUMBAI
+
+ADDRESS:Film City Rd, Film City Complex, Aarey Colony, Goregaon, Mumbai, Maharashtra 400065
+
+SPECIALITY:Film City is an integrated film studio complex 
+
+HISTORY:
+	*It provides a priceless insight into the Bollywood Film making processes 
+	  that take place in the Film City. 
+	*The film city has over forty-two outdoor locations. 
+	*The film city had a beautiful and well-constructed topography water 
+	  bodies, ravines, open spaces and natural woods.
+	*This feature attracts directors from all over the world to shoot their 
+	  films for a more natural background.
+

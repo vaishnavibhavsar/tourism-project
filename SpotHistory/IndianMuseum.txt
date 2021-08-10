@@ -1,0 +1,11 @@
+SPOT NAME:INDIAN MUSEUM, KOLKATA
+
+ADDRESS:27, Jawaharlal Nehru Road, Park Street, Kolkata - 700016. 
+
+SPECIALITY:It has rare collections of antiques, armour and ornaments, fossils, skeletons, mummies and Mughal paintings.
+
+HISTORY:
+	*With its foundation laid down in 1814, the Indian Museum is one of the 
+	 oldest in the world. Its 35 galleries are filled with historically significant 
+	 items like stunning Mughal paintings, skeletons, fossils, Egyptian mummies, and other sacred items.
+	*This is the largest multi-purpose museum in the whole of the Asia-Pacific region.

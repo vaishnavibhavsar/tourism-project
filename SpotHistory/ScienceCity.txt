@@ -1,0 +1,12 @@
+SPOT NAME:SCIENCE CITY, KOLKATA
+
+ADDRESS:BS Haldane Avenue, Basanti Hwy, Kolkata, WB
+
+SPECIALITY: Largest science centre in the Indian subcontinent.
+
+HISTORY:
+	*The highlights of this place include Space Theatre, 3D shows, Natural Science Park, 
+	 Evolution Theme Park, Dinosaurs Complex, and Time Machine. 
+	*It is the best place for children as well as youngsters to grab knowledge about
+	 light, speed, and electricity through several simple experiments. The unique idea of
+	 elaborating science is liked by everyone who visits this museum.

@@ -1,0 +1,15 @@
+SPOT NAME:THE GATEWAY OF INDIA, MUMBAI
+
+Address:Apollo Bandar, Colaba, Mumbai, Maharashtra 400001
+
+Speciality:Great historical monument built during the British rule in the country.
+
+History:
+	*The monument is designed in Indo Saracenic style, though it also bears 
+	 influences of other architectural styles from the Muslim style and 16th 
+	 century Gujarat style of architecture.
+	*As the name suggests this magnificent monument was built to be used as an 
+	 access and exit point to India during the British period. 
+	*The first key event that took place at the Gateway of India was when the
+	 first Battalion of the Somerset Light Infantry marched through, which marked
+	 the end of British rag in India

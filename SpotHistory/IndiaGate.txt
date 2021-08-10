@@ -1,0 +1,10 @@
+SPOT NAME: INDIA GATE
+
+ADDRESS: Rajpath, India Gate, New Delhi, Delhi 110001
+
+SPECIALITY: India Gate, an important monument of the city, is a memorial built in commemoration of more than 80,000
+	    Indian soldiers who were killed during World War I.
+
+HISTORY: The India Gate was part of the work of the Imperial War Graves Commission (IWGC), which came into existence in December 1917
+ 	 under the British rule for building war graves and memorials to soldiers who were killed in the First World War.
+	 The foundation stone of the gate, then called the All India War Memorial, was laid on 10 February 1921, at 16:30

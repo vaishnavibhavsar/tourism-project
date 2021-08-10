@@ -1,0 +1,11 @@
+SPOT NAME: ELLIOT'S BEACH
+
+ADDRESS: 6th Avenue, Besant Nagar, Chennai, Tamil Nadu, 600090, India
+
+SPECIALITY: Elliot's beach is also well-known as Besant Nagar beach. 
+	    It is considered as the cleanest beach of Chennai. It is less crowded compared to Marina beach
+
+HISTORY: The beach was often visited by the Britishers during the colonial era. 
+	 Karl Schmidt Memorial was built on the beach in honour of the Dutch sailor, Karl Schmidt who is believed to have lost his life 
+         while saving the life of a drowning girl in 1930.
+

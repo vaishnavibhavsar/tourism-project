@@ -1,0 +1,10 @@
+SPOT NAME: RED FORT
+
+ADDRESS: Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006
+
+SPECIALITY:The fort, which is spread over 255 acres, features a mix of architectural styles such as Islamic, Hindi, Timurid, and Persian.
+
+HISTORY: Constructed in 1639 by the fifth Mughal Emperor Shah Jahan as the palace of his fortified capital Shahjahanabad, the Red Fort is named for its massive enclosing walls of red sandstone. 
+	 The imperial apartments consist of a row of pavilions, connected by a water channel known as the Stream of Paradise (Nahr-i-Bihisht). 
+	 The fort complex is "considered to represent the zenith of Mughal creativity under Shah Jahan",and although the palace was planned according to Islamic prototypes,
+ 	 each pavilion contains architectural elements typical of Mughal buildings that reflect a fusion of Persian, Timurid and Indian traditions.
